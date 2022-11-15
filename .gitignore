@@ -1,0 +1,8 @@
+[Bb]in/
+[Bb]in-int/
+
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vs
+*.filters
